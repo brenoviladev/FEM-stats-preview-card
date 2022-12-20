@@ -24,8 +24,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: []()
-- Live Site URL: []()
+- Solution URL: [Solution](https://github.com/brenoviladev/FEM-stats-preview-card)
+- Live Site URL: [Stats preview card component](https://brenoviladev.github.io/FEM-stats-preview-card/)
 
 ## My process
 
@@ -39,11 +39,11 @@ Users should be able to:
 
 ### What I learned
 
-first time using BEM, it really made easier to work with css, i really liked it
+More practice with BEM.
 
 ### Continued development
 
-I'll continue learning and practicing BEM naming convention, also doing Frontend mentor challenges.
+Keep practicing BEM naming convention, also doing Frontend mentor challenges.
 
 ## Author
 
